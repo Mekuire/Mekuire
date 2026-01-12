@@ -1,6 +1,7 @@
 ## Hey there 👋
 
-I am a Unity Developer with 2.5 years of experience. Love to make my projects work without 🪲s.
+I am a Unity Developer with 2.5 years of experience. 
+Love to make my projects work without 🪲s.
 
 <!--
 **Mekuire/Mekuire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
