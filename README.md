@@ -1,9 +1,9 @@
 # 👋 Hi there
-Unity Developer with ~2.8 years of experience.  
-I work on gameplay systems, tools, and project architecture, with a strong focus on clean, maintainable C# code.  
+Unity Developer with ~3 years of experience.  
+I focus on designing clear, maintainable architectures and developing gameplay systems in Unity.  
 Comfortable with common design patterns and architectural approaches.  
 Experienced with DOTween, DI frameworks, Addressables, Cinemachine, and DOTS (ECS / Jobs / Burst).  
-I enjoy optimizing workflows and making projects stable — without 🪲s.
+I strive to make projects reliable and bug-free — without 🪲s.
 
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
