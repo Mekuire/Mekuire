@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi there:
 I am a Unity Developer with 2.5 years of experience.<br><br>Love to make my projects work without 🪲s.
 
 
