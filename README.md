@@ -11,7 +11,7 @@ I enjoy optimizing workflows and making projects stable — without 🪲s.
 ![DOTween](https://img.shields.io/badge/DOTween-2F9CDB?style=for-the-badge)
 ![Cinemachine](https://img.shields.io/badge/Cinemachine-6E6E6E?style=for-the-badge)
 ![Addressables](https://img.shields.io/badge/Addressables-6EA3FF?style=for-the-badge)
-![DI](https://img.shields.io/badge/DI--Frameworks-Generic-FF7F50?style=for-the-badge)
+![DI](https://img.shields.io/badge/DI--Frameworks-FF7F50?style=for-the-badge)
 ![DOTS](https://img.shields.io/badge/DOTS-00A1F1?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
