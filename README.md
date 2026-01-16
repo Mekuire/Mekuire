@@ -24,8 +24,6 @@ I enjoy optimizing workflows and making projects stable — without 🪲s.
 # ✍️ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-parkhomenko-342a63332)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parkhomenko.y.d@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/@Yurk1_27)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/your_discord_link)
 
 
 
