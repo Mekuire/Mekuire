@@ -4,8 +4,6 @@ I work on gameplay systems, tools, and project architecture, with a strong focus
 Experienced with DOTween, DI frameworks, Addressables, and DOTS (Jobs/Burst).  
 I enjoy optimizing workflows and making projects stable — without 🪲s.
 
----
-
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -15,8 +13,6 @@ I enjoy optimizing workflows and making projects stable — without 🪲s.
 ![Addressables](https://img.shields.io/badge/Addressables-6EA3FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 # ✍️ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-parkhomenko-342a63332)
