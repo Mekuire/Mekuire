@@ -2,7 +2,7 @@
 Unity Developer with ~3 years of experience.  
 I focus on designing clear, maintainable architectures and developing gameplay systems in Unity.  
 Comfortable with common design patterns and architectural approaches.  
-Experienced with DOTween, DI frameworks, Addressables, Cinemachine, and DOTS (ECS / Jobs / Burst).  
+Experienced with DOTween, DI frameworks, Addressables, Cinemachine, DOTS (ECS / Jobs / Burst), etc.  
 I strive to make projects reliable and bug-free — without 🪲s.
 
 # 💻 Tech Stack
