@@ -1,7 +1,7 @@
 # 👋 Hi there
 Unity Developer with ~2.8 years of experience.  
 I work on gameplay systems, tools, and project architecture, with a strong focus on clean, maintainable C# code.  
-Experienced with DOTween, DI frameworks, Addressables, and DOTS (Jobs/Burst).  
+Experienced with DOTween, DI frameworks, Addressables, Cinemachine and DOTS (ECS / Jobs / Burst).
 I enjoy optimizing workflows and making projects stable — without 🪲s.
 
 # 💻 Tech Stack
