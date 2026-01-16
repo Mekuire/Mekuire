@@ -17,9 +17,9 @@ I enjoy optimizing workflows and making projects stable — without 🪲s.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 🎮 Projects
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Mekuire)  
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://mekuire.itch.io/)  
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://mekuire.itch.io/) 
 [![Unity Play](https://img.shields.io/badge/UnityPlay-222222?logo=unity&logoColor=white)](https://play.unity.com/ru/user/de907e44-9047-46b5-8f4a-7a3ce8d936a6)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Mekuire)
 
 # ✍️ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-parkhomenko-342a63332)  
