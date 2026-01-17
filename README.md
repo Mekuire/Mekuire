@@ -1,11 +1,11 @@
 # 👋 Hi there
-Unity Developer with ~3 years of experience.  
-I focus on designing clear, maintainable architectures and developing gameplay systems in Unity.  
-Comfortable with common design patterns and architectural approaches.  
-Experienced with DOTween, DI frameworks, Addressables, Cinemachine, DOTS (ECS / Jobs / Burst), etc.  
-I strive to make projects reliable and bug-free — without 🪲s.
+Gameplay Programmer with ~3 years of experience in Unity, focused on game mechanics and systems design.
+I use code to prototype, validate, and iterate on gameplay ideas, building architectures that support clarity and change rather than over-engineering.
+Comfortable with common design patterns and architectural approaches.
+Experience includes DOTween, DI frameworks, Addressables, Cinemachine, DOTS (ECS / Jobs / Burst).
+I value reliable, predictable systems that make design iteration fast and safe.
 
-# 💻 Tech Stack
+# 💻 Tools & Technologies
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![DOTween](https://img.shields.io/badge/DOTween-2F9CDB?style=for-the-badge)
